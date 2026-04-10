@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Restaurant Chain Analytics — End-to-End Databricks Lakehouse
 
 An end-to-end data engineering project on **Azure Databricks** that ingests operational restaurant data from multiple sources, processes it through a **Medallion architecture** (Bronze → Silver → Gold) using **Lakeflow Declarative Pipelines (DLT)** and **Unity Catalog**, and serves insights through **Databricks AI/BI dashboards**.
@@ -216,3 +217,7 @@ A second **Review Insights Dashboard** tracks review volume, rating distribution
 Azure · Databricks · Snowflake · PySpark · SQL · Power BI
 
 > If this project is useful to you, a ⭐ on the repo is much appreciated.
+=======
+# databricks-e2e-restaurant-analytics
+ Restaurant Chain Analytics — End-to-End Databricks Lakehouse
+>>>>>>> 7543030b4efeb32141b07c283b08aafc21be4ce1
