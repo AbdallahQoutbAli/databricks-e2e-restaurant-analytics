@@ -177,6 +177,7 @@ A second **Review Insights Dashboard** tracks review volume, rating distribution
 ![Master Dashboard](screenshots/master_dashboard.png)
 
 📄 Full PDF export: [`screenshots/master_dashboard.pdf`](screenshots/master_dashboard.pdf)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -217,6 +218,3 @@ A second **Review Insights Dashboard** tracks review volume, rating distribution
 Azure · Databricks · Snowflake · PySpark · SQL · Power BI
 
 > If this project is useful to you, a ⭐ on the repo is much appreciated.
-=======
-# databricks-e2e-restaurant-analytics
- Restaurant Chain Analytics — End-to-End Databricks Lakehouse
