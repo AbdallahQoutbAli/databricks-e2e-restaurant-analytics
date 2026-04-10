@@ -174,8 +174,9 @@ Charts: daily orders & AOV trend, top 10 selling items, order volume by day of w
 
 A second **Review Insights Dashboard** tracks review volume, rating distribution, sentiment trend, and issue categorization (delivery, food quality, pricing, portion size).
 
-📄 Full export: [`screenshots/master_dashboard.pdf`](screenshots/master_dashboard.pdf)
+![Master Dashboard](screenshots/master_dashboard.png)
 
+📄 Full PDF export: [`screenshots/master_dashboard.pdf`](screenshots/master_dashboard.pdf)
 ---
 
 ## 🛠️ Tech Stack
