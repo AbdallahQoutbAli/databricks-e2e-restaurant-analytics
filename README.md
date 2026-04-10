@@ -214,7 +214,5 @@ A second **Review Insights Dashboard** tracks review volume, rating distribution
 
 ## 👤 Author
 
-**Abdallah Kotb (Kotb)** — Senior Data Engineer · Manchester, UK
-Azure · Databricks · Snowflake · PySpark · SQL · Power BI
+**Abdallah Kotb (Kotb)** — Senior Data Engineer
 
-> If this project is useful to you, a ⭐ on the repo is much appreciated.
